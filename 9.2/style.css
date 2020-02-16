@@ -12,7 +12,11 @@
     src: url(fonts/ProximaNova-Regular.otf);
 }
 
+html, body {
 
+    width: -webkit-calc(100% - 0px);
+
+}
 html, body{
     background-color: #464f54;
     margin: 0;
