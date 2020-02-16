@@ -22,7 +22,7 @@ header{
     display: flex;
     flex-direction: column;
     align-items: flex-end;
-    margin-top: -102px;
+    margin-top: -8.500vw;
 
     width: 73%;
     float: right;
@@ -32,24 +32,24 @@ header{
 
 .title_input{
     box-sizing: border-box;
-    height: 187px;
+    height: 15.583vw;
     width: 100%;
     background-color: #181818;
-    padding-top: 47px;
-    padding-left: 60px;
-    padding-bottom: 50px;
+    padding-top: 3.917vw;
+    padding-left: 5vw;
+    padding-bottom: 4.167vw;
     box-shadow: -3.536px -3.536px 59px 0px rgba(0, 0, 0, 0.16);
 }
 h6{
     color: #777777;
     font-family: ProximaNova;
-    font-size: 15px;
+    font-size: 1.250vw;
     margin: 0;
 }
 
 h2{
     font-family: PlayfairDisplay;
-    font-size: 48px;
+    font-size: 4vw;
     color: #fefefe;
     margin: 0;
 }
@@ -65,9 +65,10 @@ hr{
     box-sizing: border-box;
     background-color: #f7bd2c;
     width: 92%;
-    padding-left: 35px;
-    padding-top: 22px;
-    padding-bottom: 22px;
+    padding-left: 2.917vw;
+    padding-right: 2.917vw;
+    padding-top: 1.833vw;
+    padding-bottom: 1.833vw;
 }
 
 img{
@@ -82,47 +83,44 @@ article{
     box-shadow: 0px 0px 35px 0px rgba(0, 0, 0, 0.22);
     margin-left: auto;
     margin-right: auto;
-    margin-top: 149px;
+    margin-top: 12.417vw;
     
 }
 
 .content{
-    margin-left: 67px;
+    margin-left: 5.583vw;
     border-left: solid;
     border-color: #e8eced;
     border-width: 2px;
-    padding-top: 200px;
-    padding-left: 56px;
-    padding-right: 125px;
-    padding-bottom: 35px;
+    padding-top: 16.667vw;
+    padding-left: 4.667vw;
+    padding-right: 10.417vw;
+    padding-bottom: 2.917vw;
 }
 
 h4{
-    font-size: 19,84px;
+    font-size: 1.653vw;
     color: #b4b4b4;
     font-family: ProximaNova;
 }
 
 h1{
-    font-size: 77.93px;
+    font-size: 6.494vw;
     color: #2a2a2a;
     font-family: Futura;
 }
 
 h3{
-    font-size: 30px;
+    font-size: 2.500vw;
     font-family: "Georgia";
     font-style: italic;
     color: #8f8f8f;
 }
 
 p{
-    font-size: 41.628px;
+    font-size: 3.469vw;
     font-family: "Georgia";
     color: black;
     line-height: 1.5;
 }
-  
-
-  
   
